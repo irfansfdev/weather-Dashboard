@@ -180,21 +180,6 @@ The application is fully responsive and works on:
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    dark-mode.png
-    forecast.png
-```
-
----
-
 # 🙌 Acknowledgements
 
 - WeatherAPI
@@ -211,8 +196,8 @@ This project is developed for educational purposes.
 
 # 👨‍💻 Author
 
-**Your Name**
+**Muhammad Irfan**
 
-GitHub: https://github.com/yourusername
+GitHub: (https://github.com/irfansfdev/)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/muhammad-irfan99/
